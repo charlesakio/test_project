@@ -1,6 +1,6 @@
 test_project
 ============
-WEB APP POLL:
+<b>WEB APP POLL:<b>
 
 
   -This project was done to learn more about Django framework.
